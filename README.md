@@ -1,4 +1,4 @@
-PlanetCrypton.Brainwallet
+PlanetCrypton.Multi-Brainwallet
 =========================
 
 This is the PlanetCrypton.com branded version of the excellent Brainwallet by Brainwallet.org.
