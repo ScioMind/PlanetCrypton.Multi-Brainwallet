@@ -1,0 +1,48 @@
+Planet Crypton | Multi-Brainwallet - JavaScript Client-Side Multiple Cryptocoin Address and Bitcoin Transaction Generator
+
+https://github.com/ScioMind/PlanetCrypton.Multi-Brainwallet
+
+This is the Planet Crypton (http://PlanetCrypton.com) branded version of the excellent Brainwallet by Brainwallet.org
+
+This project is open source and public domain.
+
+--------------------------------------------------------
+
+The primary value of this project is its ability to generate Bitcoin transactions in a fairly simple way, without the need for running any Bitcoin software/wallet other than the javascript contained in this project.  (This does require queries to online bitcoin resources, but does not expose your private keys.)
+
+A secondary value of this project its ability to generate public/private key-pairs for the various crypto-coins which it supports, all in one simple to use, multiple-coin interface.  It should be noted, however, that many different single-coin key-pair generators already exist, often with features not found in this project.  (One such feature is the ability to generate very large numbers of key-pairs simultaneously, for example.)  That said, this project is good at what it does: key-pair (public address and private key) generation for multiple crypto-coins, and generation of bitcoin transactions.
+
+Other useful projects can also be found at http://planetcrypton.com 
+
+--------------------------------------------------------
+
+ONLY BITCOIN TRANSACTIONS ARE SUPPORTED AT THIS TIME.  WE WOULD LIKE TO EXPAND THIS TO SUPPORT TRANSACTIONS FOR OTHER COINS.
+
+WE ARE ALSO LOOKING TO ADD DARKCOIN IMPLEMENTATION TO THIS PROJECT.
+
+IF YOU CAN HELP WITH ANY OF THIS, PLEASE LET US KNOW.
+
+Currently Supported Crypto-Coins:
+---------------------------------
+Bitcoin		BTC
+Cryptogenic	CGB
+Datacoin	DTC
+Devcoin		DVC
+Digitalcoin	DGC
+Dogecoin	DOGE
+Feathercoin	FTC
+Infinitecoin	IFC
+Ixcoin		IXC
+Litecoin	LTC
+Memorycoin	MMC
+Namecoin	NMC
+Novacoin	NVC
+Peercoin	PPC
+Primecoin	XPM
+Protoshares	PTS
+Quarkcoin	QRK
+Terracoin	TRC
+Testnet		TEST
+Vertcoin	VTC
+Worldcoin	WDC
+Zetacoin	ZET
